@@ -1,4 +1,4 @@
-<h1>💫 About Me:</h1>
+<h3>💫 About Me:</h3>
 
 <p>
 I’m a Full-Stack JavaScript Developer focused on building high-performance, scalable web applications that grow with users and business needs.
@@ -25,36 +25,5 @@ I’m comfortable working in cross-functional product teams and contributing to 
 Currently open to Full-Stack Developer opportunities in product teams and startups building scalable digital products.
 </p>
 
-<h1>💻 Tech Stack</h2>
-
-
-<h2>🎨 Frontend <img height="25" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,less,materialui,tailwind,bootstrap" /></h3>
-
-<ul>
-  <li>JavaScript (ES6+) & TypeScript</li>
-  <li>React.js, Next.js, Redux, React Native</li>
-  <li>HTML5, CSS3, Sass, Less</li>
-  <li>UI Libraries: Material UI, Tailwind CSS, Bootstrap 4/5</li>
-  <li>Responsive & Adaptive UI, Cross-browser compatibility</li>
-</ul>
-
-<h2>⚙️ Backend <img height="25" src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /></h3>
-
-<ul>
-  <li>Node.js (Nest.js, Express.js)</li>
-  <li>Strapi</li>
-  <li>REST API development</li>
-</ul>
-
-<h2>🗄 Databases <img height="25" src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /></h3>
-<ul>
-  <li>PostgreSQL, MongoDB, Redis</li>
-  <li>SQL / NoSQL databases</li>
-</ul>
-
-<h2>🚀 DevOps & Tools <img height="25" src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" /></h3>
-<ul>
-  <li>AWS, Docker</li>
-  <li>Git</li>
-  <li>CI/CD basics</li>
-</ul>
+<h3>💻 Tech Stack</h3>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,aws,docker,git,html,css" />
